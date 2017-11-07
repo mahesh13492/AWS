@@ -1,0 +1,5 @@
+com/aartek/repository/EmployeeRepository.class
+com/aartek/repository/RegistrationRepository.class
+com/aartek/model/Employee.class
+com/aartek/repository/LoginRepository.class
+com/aartek/model/UserDTO.class
